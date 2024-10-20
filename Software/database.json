@@ -1,0 +1,27 @@
+{
+    "12:34:56:78": {
+        "name": "Placeholder Name",
+        "quantity": 0,
+        "last_restock": "Placeholder Date"
+    },
+    "90:AB:CD:EF": {
+        "name": "Placeholder Name",
+        "quantity": 0,
+        "last_restock": "Placeholder Date"
+    },
+    "33:ea:b:f": {
+        "name": "CHC M5 20mm",
+        "quantity": 0,
+        "last_restock": "Placeholder Date"
+    },
+    "63:c8:92:18": {
+        "name": "Rondelle Grower",
+        "quantity": 0,
+        "last_restock": "Placeholder Date"
+    },
+    "1a:9a:24:34": {
+        "name": "Vis \u00c3\u00a0 bois",
+        "quantity": 0,
+        "last_restock": "Placeholder Date"
+    }
+}
